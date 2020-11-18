@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: "About"
+    url: "/about"
+  - text: "Blog"
     url: "/blog"
+  - text: "Media & Consulting"
+    url: "/media-and-consulting"
+  - text: "Contact"
+    url: "/contact"
